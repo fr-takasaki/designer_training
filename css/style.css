@@ -34,6 +34,7 @@
 	background-color: #000;
 	color: #FFF;
 	padding: 8px 0px 0px 50px;
+	margin-top: 10px;
 }
 
 #title {
@@ -56,7 +57,7 @@ h2 {
 	background-size: 8px 50px;
 	background-repeat: no-repeat;	
 	padding-left: 13px;
-	padding-top: 7px;
+	padding-top: 5px;
 	padding-bottom: 5px;	
 	background-color: #000;
 	color: #FFF;
@@ -71,6 +72,7 @@ h4 {
 	padding-left: 13px;
 	padding-top: 5px;
 	padding-bottom: 5px;
+	margin-top: 7px;	
 	background-color: #000;
 	color: #FFF;
 }
@@ -85,6 +87,7 @@ h5 {
 	padding-top: 5px;
 	padding-bottom: 5px;	
 	background-color: #000;
+	margin-top: 7px;
 	color: #FFF;
 }
 
@@ -111,7 +114,8 @@ h3{
 .right {
 	width: 175px;
 	float: right;
-	text-align: right;} 
+	text-align: right;
+	} 
 	
 .arrowpos {
 	text-align:right;
@@ -125,7 +129,8 @@ h3{
 .text {
 	width: 300px;
 	padding-left: 13px;
-	padding-right: 10px;}
+	padding-right: 10px;
+	padding-bottom: auto; }
 	
 .icon {
 	padding-left: 2px;
